@@ -1,0 +1,10 @@
+{
+  "name": "socket-chat-app",
+  "version": "0.0.1",
+  "description": "The app to learn socket",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.22.3",
+    "socket.io": "^4.8.4"
+  }
+}
