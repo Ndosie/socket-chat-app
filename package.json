@@ -4,6 +4,7 @@
   "description": "The app to learn socket",
   "type": "module",
   "dependencies": {
+    "@socket.io/cluster-adapter": "^0.3.0",
     "express": "^4.22.3",
     "socket.io": "^4.8.4",
     "sqlite": "^5.1.1",
